@@ -9,7 +9,7 @@ plot3d_wl4.pyと同じディレクトリにあるdata.xlsxの１つ目のシー�
 
 ## 導入手順（Windows）
 「plot3d」をローカルのwindows環境に導入する手順は以下の通りです。<br>
-<font color="Red">python3や、madplotlib,xlrd,mplcursors,pandasといったモジュールがお手持ちのデバイスにインストールされていないことが確実な場合は、先に手順7、手順6を実施してください。</font>
+*※python3や、madplotlib,xlrd,mplcursors,pandasといったモジュールがお手持ちのデバイスにインストールされていないことが確実な場合は、先に手順7、手順6を実施してください。*
 
 1. 左上の「<>Code」タブを選択後、右上の「<>Code」ボタンを押してください。<br>
 2. 出てくるポップアップ風表示の一番下の「Download ZIP」をクリックしてください。<br>
@@ -36,7 +36,7 @@ plot3d_wl4.pyと同じディレクトリにあるdata.xlsxの１つ目のシー�
 
             pip3 install pandas
 
-※「pip3」が使えなければ「pip」、それでもだめなら「py -m pip」に置き換えて上記4行を実行してみてください。
+*※「pip3」が使えなければ「pip」、それでもだめなら「py -m pip」に置き換えて上記4行を実行してみてください。*
 
 7.python3がインストールされていない場合は以下手順でpython3をインストールしてください。（※Windowsの場合）<br>
             [Python公式サイト](https://www.python.org/downloads/windows/)にアクセスします
@@ -44,6 +44,6 @@ plot3d_wl4.pyと同じディレクトリにあるdata.xlsxの１つ目のシー�
             ダウンロードページ下部にある「Windows x86-64 executable installer」というリンクをクリックします。
             ダウンロードしたインストーラを開き、指示に従ってPythonをインストールします。
 
-※インストールが完了したら、次のコマンドを実行してバージョンを確認できます。
+*※インストールが完了したら、次のコマンドを実行してバージョンを確認できます。*
 
             python3 --version
