@@ -40,7 +40,7 @@ cursor = mplcursors.cursor(ax, hover=True)
 
 @cursor.connect("add")
 def on_add(sel):
-    i = sel.target.index
+    i = sel.index
     label = labels[i]
     sel.annotation.set(text=label)
 
