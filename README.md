@@ -44,8 +44,6 @@ plot3d_wl4.pyと同じディレクトリにあるdata.xlsxの１つ目のシー�
             ②　ダウンロードページで、最新バージョンのPython3を選択します。<br>
             ③　ダウンロードページ下部にある「Windows x86-64 executable installer」というリンクをクリックします。<br>
             ④　ダウンロードしたインストーラを開き、指示に従ってPythonをインストールします。<br>
-            
-<p><a href="https://www.python.org/downloads/windows/" target="_blank">Python公式サイトを別タブで開きたい方はこちら</a></p>
 
 *※インストールが完了したら、次のコマンドを実行してバージョンを確認できます。*
 
