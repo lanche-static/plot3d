@@ -45,5 +45,3 @@ def on_add(sel):
     sel.annotation.set(text=label)
 
 plt.show()
-
-print('3次元座標列データを描画しました')
